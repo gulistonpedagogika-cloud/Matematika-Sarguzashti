@@ -12,7 +12,7 @@ export const Layout: React.FC<{ children: React.ReactNode }> = ({ children }) =>
           
           <h1 className="text-3xl font-black text-white drop-shadow-[0_2px_2px_rgba(0,0,0,0.1)] flex items-center justify-center gap-3 relative z-10">
             <i className="fas fa-brain"></i>
-            <span className="tracking-tight">MATH QUEST</span>
+            <span className="tracking-tight uppercase">GDPI</span>
           </h1>
         </header>
         <main className="p-8">
